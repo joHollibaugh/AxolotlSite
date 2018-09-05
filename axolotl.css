@@ -1,0 +1,127 @@
+/*Josiah Hollibaugh*/
+/* 
+image name: Ax5.jpg
+#B6A894	light tan
+#A58769	medium tan
+#4D4C4B	dark gray
+#78624B	light brown
+#3E2D22	dark brown
+#AAD3D6	light blue
+#737A79	medium grey
+#7BADC0	medium blue
+*/
+
+body {
+	
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: small;
+	color: #000000;
+	background-color: #78624B;
+}
+h1 {	text-align: center;
+	font-family: Georgia, Helvetica, Times, sans-serif;
+	font-size: 150%;
+	color: #ffffff;
+	background-color: #78624B;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+h2 {
+	font-family: Georgia, Helvetica, Times, sans-serif;
+	font-size: 125%;
+	font-style: italic;
+	color: #ffffff;
+	background-color: #7BADC0;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	
+}
+.top {	text-align: right;
+	font-style: italic;
+	font-size: 80%;
+	margin:	20px;
+}
+#contact {
+	text-align:	center;
+	margin-top:	50px;
+	border-style: solid;
+	border-width: medium;
+	border-color: #7A4066;
+	border-radius: 15px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	font-size: 80%;
+	
+}
+.subtop {
+	margin: 0px 30px 30px 30px;
+}
+
+#dropCap {
+	font-size: 200%;
+}
+a:link {
+	color: #42cef4;
+}
+a:visited {
+	color: #b342f4;
+}
+a:hover {
+	color: #775f27;
+}
+#allcontent {
+	width: 		800px;
+	margin-left:	auto;
+	margin-right:	auto;
+	padding-top:	10px;
+	padding-left:	20px;
+	padding-right:	20px;
+	padding-bottom:	5px;
+	background-color:	#ffffff;
+}
+#sidebar {
+	width: 200px;
+	float:	right;
+	border-style:	solid;
+	border-width:	medium;
+	border-color: #7A4066;
+	padding:		10px;
+	margin-left:	5px;
+	margin-bottom:	10px;
+	text-align:	center;
+}
+.images {
+	float:	right;
+	margin-top:	0px;
+	margin-right:	0px;
+	margin-bottom:	0px;
+	margin-left:	5px;
+}
+table {
+	border: thin solid black;
+	border-collapse: collapse;
+}
+th {
+	background-color: #78624B;
+}
+td, th {
+	border: thin dotted gray;
+	border-collapse: collapse;
+	padding: 5px;
+}
+#navbar {
+	text-align: center; 
+	background-color: #00FFFF;
+}
+#navbar li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 20px;
+}
+#navbar li a:link {color: black;}
+#navbar li a:hover {color:white;}
+
+
